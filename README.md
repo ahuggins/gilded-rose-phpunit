@@ -1,12 +1,6 @@
 # Gilded Rose Kata for PHP
 
-Port of the Gilded Rose Kata for C# (https://github.com/NotMyself/GildedRose)
-
-## Install
-
-* Git Checkout: git clone https://github.com/qafoo/gilded-rose-kata
-* Generate Autoloader: composer dump-autoload
-* Run tests with "phpunit"
+Port of the Gilded Rose Kata for PHP using Phpunit as the testing framework
 
 ## Introduction
 
